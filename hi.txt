@@ -1,2 +1,3 @@
 this is txt file for push to git
 change txt file
+내가고쳤다
