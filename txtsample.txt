@@ -1,22 +1,2 @@
 git에서의 작업의 흐름 알아보기
-issue2에서 작성하고 있습니다.
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> issue3
-issue2에서 작성했습니다.- 병합알아보기
-=======
-issue3에서 수정했습니다.
->>>>>>> Add more explanaion in issue3
-<<<<<<< HEAD
-rebase 병합합니다 수정합니다.
-rebase를 사용해 수정중입니다.
-=======
-issue2에서 작성했습니다.- 병합알아보기
->>>>>>> issue2
-ok
-=======
-rebase 병합합니다 수정합니다.
->>>>>>> issue3
-ok
+commit --amend 실행해보기
